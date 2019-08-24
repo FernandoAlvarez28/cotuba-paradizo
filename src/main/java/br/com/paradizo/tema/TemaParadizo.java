@@ -1,6 +1,6 @@
 package br.com.paradizo.tema;
 
-import cotuba.plugin.Tema;
+import cotuba.plugin.tema.Tema;
 
 public class TemaParadizo implements Tema {
 
